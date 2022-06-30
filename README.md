@@ -1,20 +1,23 @@
 # Kodluyoruz İlk Repo  
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosayası, bir adet de index.html barındırıyor.
 
+![image](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true)
 
 ## Installation
 
 Öncelikle projeyi clonlayın.
-'git clone https://github.com/oege156/kodluyoruzilkrepo.git'
+```
+git clone https://github.com/oege156/kodluyoruzilkrepo.git 
+```
 
 ## Usage 
 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 Lİnux için:
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
